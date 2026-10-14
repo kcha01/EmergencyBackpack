@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tl1xZu+nxDA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Krzysiu\\Desktop\\Magisterka\\semestr 2\\EmergencyBackpack\\EmergencyBackpack\\EmergencyBackpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krzysiu\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\Krzysiu\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
